@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/employee-crud-firebase/static/css/main.4832b5cb.css",
+    "main.js": "/employee-crud-firebase/static/js/main.74dd0149.js",
+    "static/js/453.e86c8e93.chunk.js": "/employee-crud-firebase/static/js/453.e86c8e93.chunk.js",
+    "index.html": "/employee-crud-firebase/index.html",
+    "main.4832b5cb.css.map": "/employee-crud-firebase/static/css/main.4832b5cb.css.map",
+    "main.74dd0149.js.map": "/employee-crud-firebase/static/js/main.74dd0149.js.map",
+    "453.e86c8e93.chunk.js.map": "/employee-crud-firebase/static/js/453.e86c8e93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4832b5cb.css",
+    "static/js/main.74dd0149.js"
+  ]
+}
